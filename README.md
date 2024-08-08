@@ -1,6 +1,10 @@
 # ROS2 Common Interfaces
 
-A set of packages which contain common interface files (.msg and .srv) used furing development of package/node/rcl.
+A set of packages which contain common interface files (.msg and .srv) used during development of package/node/rcl.
+
+## Made for
+
+Used in RclNet rcl2cs, which generates C# classes out of msgs and services.
 
 ## Purpose
 
